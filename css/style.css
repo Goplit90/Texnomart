@@ -42,7 +42,7 @@ body {
     padding: 20px;
 }
 .header {
-	background-color: #9dacc5;
+	background-color: #cad2de;
 	width: 1200px;
 	height: 360px;
 }
@@ -116,9 +116,7 @@ body {
 }
 .phone {
 	display: inline-block;
-	width: 13.51px;
-	height: 10 .97px;
-	margin: 10.02px 16.51px 13.1px 39.98px;
+	margin: 10.02px 16.51px 5px 39.98px;
 	
 }
 .number {
@@ -181,4 +179,145 @@ body {
 	display: inline-block;
 	margin: 20px 0px 0px 60px;
 	color: lavender;
+}
+.olmaterials {
+	background-color: cadetblue;
+	display: inline-block;
+	width: 1200px;
+	height: 800px;
+	margin: 50px 0px 0px 0px;
+}
+.materials {
+	background-color: #e5b151;
+	display: inline-block;
+	margin: 0px 0px 0px 130px;
+	width: 300px;
+	height: 123px;
+}
+.divmaterials {
+	width: 100px;
+	height: 20px;
+	font-size: 20px;
+	margin: 20px 0px 0px 30px;
+	color: white;
+}
+.amaterials {
+	background-color: #e5b151;
+	display: inline-block;
+	width: 100px;
+	height: 20px;
+	font-size: 15px;
+	margin: 10px 0px 0px 30px;
+	opacity: 0.5;
+	color: white;
+}
+.tool { 
+	background-color: #5c9de3;
+	display: inline-block;
+	margin: 0px 0px 0px 10px;
+	width: 300px;
+	height: 123px;
+}
+.divtool {
+	width: 100px;
+	height: 20px;
+	font-size: 20px;
+	margin: 20px 0px 0px 30px;
+	color: white;
+}
+.atool {
+	background-color: #5c9de3;
+	display: inline-block;
+	width: 100px;
+	height: 20px;
+	font-size: 15px;
+	margin: 10px 0px 0px 30px;
+	opacity: 0.5;
+	color: white;
+}
+.technique {
+	background-color: plum;
+	display: inline-block;
+	margin: 0px 0px 0px 10px;
+	width: 300px;
+	height: 123px;
+}
+.divtechnique {
+	width: 100px;
+	height: 20px;
+	font-size: 20px;
+	margin: 20px 0px 0px 30px;
+	color: white;
+}
+.atechnique {
+	background-color: plum;
+	display: inline-block;
+	width: 100px;
+	height: 20px;
+	font-size: 15px;
+	margin: 10px 0px 0px 30px;
+	opacity: 0.5;
+	color: white;
+}
+.olimg {
+	background-color: violet;
+	width: 1200px;
+	height: 800px;
+}
+.img {
+	width: 615px;
+	height: 270px;
+	margin: 15px 0px 0px 130px;
+}
+.h1 {
+	display: inline-block;
+	width: 200px;
+	height: 40px;
+	font-size: 33px;
+	margin: 30px 0px 0px -600px;
+	color: white;
+}
+.polimg {
+	display: inline-block;
+	width: 200px;
+	height: 30px;
+	font-size:15px;
+	margin: 20px 0px 0px 0px;
+	color: white;
+}
+.aolimg {
+	background-color: darkred;
+	display: inline-block;
+	width: 120px;
+	height: 25px;
+	font-size: 13px;
+	margin: 100px 0px 0px 0px;
+	padding: 5px 0px 0px 13px;
+	color: white;
+}
+.services {
+	display: inline-block;
+	background-color: tomato;
+	width: 400px;
+	height: 600px;
+	margin: 0px 0px 0px 405px;
+}
+.discounts {
+	background-color: #82eec3;
+	width: 300px;
+	height: 123px;
+}
+.adiscounts {
+	background-color: blue;
+	margin: 0px 0px 0px 0px;
+	width: 60px;
+	height: 25px;
+}
+.delivery {
+	background-color: #82e9ee;
+	width: 300px;
+	height: 123px;
+}
+.adelivery {
+
 }
